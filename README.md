@@ -52,8 +52,8 @@
 
 <h2 align="center">GitHub Stats 📊 </h2>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Aishwarya-S-Sharma&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" height="180em" /><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aishwarya-S-Sharma&theme=tokyonight&hide_border=false" height="180em" /><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aishwarya-S-Sharma&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" height="180em" /><br/><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aishwarya-S-Sharma&theme=tokyonight&hide_border=false" height="180em" /><br/><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishwarya-S-Sharma&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180em" />
 </div>
 
@@ -66,8 +66,7 @@
 </div>
 
 
-###
 
+<div align="center">
 <img src="https://raw.githubusercontent.com/Aishwarya-S-Sharma/Aishwarya-S-Sharma/output/snake.svg" alt="Snake animation" />
-
-###
+</div>
