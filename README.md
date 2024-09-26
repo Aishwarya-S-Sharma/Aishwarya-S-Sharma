@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aishwarya S</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://tenor.com/cWrw4c2Pf1C.gif">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aishwarya-s-sharma&label=Profile%20views&color=0e75b6&style=flat" alt="aishwarya-s-sharma" /> </p>
 
