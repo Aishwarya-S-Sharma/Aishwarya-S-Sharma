@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aishwarya S</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aishwarya-s-sharma&label=Profile%20views&color=0e75b6&style=flat" alt="aishwarya-s-sharma" /> </p>
-
-<p align="left"> <a href="https://twitter.com/aishusharma683" target="blank"><img src="https://img.shields.io/twitter/follow/aishusharma683?logo=twitter&style=for-the-badge" alt="aishusharma683" /></a> </p>
+<h2 align="left">💫 About Me:</h2>
+<img align="right" alt="coding" width="300" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
 🌱 I’m currently learning **Full Stack Web Development**
 
@@ -17,8 +14,8 @@
 
 📄 Know about my experiences [Here](https://drive.google.com/file/d/1izLo7HRR0pTd7xypPgb8dNOdN-yvE0hR/view)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h2 align="left">🌐 Socials:</h2>
+<div align='center'>
 <a href="https://twitter.com/aishusharma683" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aishusharma683" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aishwarya-s-1c683" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aishwarya-s-1c683" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/aishwaryas683" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aishwaryas683" height="30" width="40" /></a>
@@ -26,11 +23,11 @@
 <a href="https://codeforces.com/profile/aishwarya.s683" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aishwarya.s683" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aishwarya_s683" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aishwarya_s683" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/aishwarh52z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aishwarh52z" height="30" width="40" /></a>
-</p>
+</div>
 
 <h2 align="left">💻 Tech Stack:</h2>
-<!-- <p align="left"> -->
-<div display='flex' align='center' gap='15px'>
+<p align="left">
+<!-- <div display='flex' align='center' gap='15px'> -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="80"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="80"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="80"/>
@@ -50,11 +47,24 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="80"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="80"/> 
     
-<!--     </p> -->
+  </p> 
+<!-- </div> -->
+
+<h2 align="center">GitHub Stats 📊 </h2>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Aishwarya-S-Sharma&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" height="180em" /><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aishwarya-S-Sharma&theme=tokyonight&hide_border=false" height="180em" /><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishwarya-S-Sharma&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180em" />
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aishwarya-s-sharma&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aishwarya-s-sharma" /></p>
+<h2 align="center">More Statistics 📈</h2>
+<div align="center">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aishwarya-S-Sharma&theme=tokyonight" height="180em" />
+    <br/>
+    <br />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aishwarya-S-Sharma&theme=tokyonight" height="180em" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aishwarya-s-sharma&show_icons=true&locale=en&theme=tokyonight" alt="aishwarya-s-sharma" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aishwarya-s-sharma&&theme=tokyonight" alt="aishwarya-s-sharma" /></p>
+### Snake Animation
+<img src="https://raw.githubusercontent.com/Aishwarya-S-Sharma/Aishwarya-S-Sharma/output/snake.svg" alt="Snake animation" />
