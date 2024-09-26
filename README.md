@@ -66,5 +66,8 @@
 </div>
 
 
-### Snake Animation
+###
+
 <img src="https://raw.githubusercontent.com/Aishwarya-S-Sharma/Aishwarya-S-Sharma/output/snake.svg" alt="Snake animation" />
+
+###
