@@ -4,7 +4,7 @@
 <h2 align="left">💫 About Me:</h2>
 <img align="right" alt="coding" width="300" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
-🔍 Currently interning as a **Data Engineer at mfine**, working on optimizing data pipelines and cloud data platforms.
+🔍 Currently interning as a **Data Engineer at HWL**, working on optimizing data pipelines and cloud data platforms.
 
 📊 Passionate about **Data Engineering, Big Data, Cloud (AWS), and Real-time Data Processing**
 
